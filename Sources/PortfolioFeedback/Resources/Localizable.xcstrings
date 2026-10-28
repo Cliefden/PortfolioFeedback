@@ -1,0 +1,222 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%lld attachment(s)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "%lld bilaga/bilagor" } }
+      }
+    },
+    "Ad hoc" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "Ad hoc" } }
+      }
+    },
+    "Add a FeedbackConfiguration with .portfolioFeedback(_:) above this view." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "Lägg till en FeedbackConfiguration med .portfolioFeedback(_:) ovanför den här vyn." } }
+      }
+    },
+    "App %@ (%@) · %@ · %@ %@ · %@ · %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "App %1$@ (%2$@) · %3$@ · %4$@ %5$@ · %6$@ · %7$@" } }
+      }
+    },
+    "App Store" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "App Store" } }
+      }
+    },
+    "Attached automatically" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "Bifogas automatiskt" } }
+      }
+    },
+    "Bug" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "Bugg" } }
+      }
+    },
+    "Cancel" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "Avbryt" } }
+      }
+    },
+    "Contact" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "Kontakt" } }
+      }
+    },
+    "Could not reach the server. Check your connection and try again." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "Kunde inte nå servern. Kontrollera anslutningen och försök igen." } }
+      }
+    },
+    "Could not send the report" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "Rapporten kunde inte skickas" } }
+      }
+    },
+    "Description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "Beskrivning" } }
+      }
+    },
+    "Done" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "Klar" } }
+      }
+    },
+    "Idea" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "Idé" } }
+      }
+    },
+    "Include recent logs" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "Inkludera senaste loggar" } }
+      }
+    },
+    "Issue #%lld filed. Thank you!" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "Ärende #%lld skapat. Tack!" } }
+      }
+    },
+    "Issue reporting is not configured" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "Ärenderapportering är inte konfigurerad" } }
+      }
+    },
+    "Name or email (optional)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "Namn eller e-post (valfritt)" } }
+      }
+    },
+    "No recent log entries for this app." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "Inga nya loggposter för den här appen." } }
+      }
+    },
+    "OK" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "OK" } }
+      }
+    },
+    "Only so we can follow up on this report." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "Bara så att vi kan följa upp rapporten." } }
+      }
+    },
+    "Question" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "Fråga" } }
+      }
+    },
+    "Report an issue" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "Rapportera ett problem" } }
+      }
+    },
+    "Send" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "Skicka" } }
+      }
+    },
+    "Short summary" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "Kort sammanfattning" } }
+      }
+    },
+    "TestFlight" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "TestFlight" } }
+      }
+    },
+    "The last %lld minutes of this app's own log. Private values are redacted by the system." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "De senaste %lld minuterna av appens egen logg. Privata värden maskeras av systemet." } }
+      }
+    },
+    "The server rejected the report (%@, HTTP %lld)." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "Servern avvisade rapporten (%1$@, HTTP %2$lld)." } }
+      }
+    },
+    "The server sent an unexpected reply." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "Servern svarade på ett oväntat sätt." } }
+      }
+    },
+    "The team can see your report in the project's issue tracker." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "Teamet ser din rapport i projektets ärendehanterare." } }
+      }
+    },
+    "Title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "Rubrik" } }
+      }
+    },
+    "Too many reports in a short time. Please try again in a minute." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "För många rapporter på kort tid. Försök igen om en minut." } }
+      }
+    },
+    "Report type" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "Typ av rapport" } }
+      }
+    },
+    "Unknown" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "Okänd" } }
+      }
+    },
+    "What happened, and what did you expect?" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "Vad hände, och vad förväntade du dig?" } }
+      }
+    },
+    "Xcode" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sv" : { "stringUnit" : { "state" : "needs_review", "value" : "Xcode" } }
+      }
+    }
+  },
+  "version" : "1.0"
+}
