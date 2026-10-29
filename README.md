@@ -137,3 +137,9 @@ See `supabase-shared/README.md` → **GitHub issues from the app**. In short: ve
 supabase-shared ≥ 0.2.0 into the hosting stack, copy `examples/report-issue/` to
 `supabase/functions/report-issue/`, set `ISSUE_APPS`, a GitHub App (or fine-grained
 PAT with Issues read/write) and optionally `ISSUE_ATTACHMENTS_BUCKET`, deploy.
+
+The portfolio's deployment lives in the Vivum repo (`supabase/functions/report-issue`,
+`deploy/cliefden/issue-apps.json` for the app keys, `deploy/cliefden/report-issue-deploy.sh`
+to deploy) and answers at `https://vivum.crawik.com/functions/v1/report-issue`. To add an
+app: `openssl rand -hex 16`, add the key with the repo and bundle IDs to `issue-apps.json`,
+re-run the deploy script, and put the key in the app's `FeedbackConfiguration`.
